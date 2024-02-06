@@ -44,10 +44,10 @@
 
 </div>
 
-## <a href="https://www.linkedin.com/in/Wellber/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=3000&color=6474B9&vCenter=true&width=85&height=20&lines=Socials" alt="Typing SVG" /></a>
+## <a href="https://www.linkedin.com/in/wellbersantos/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=3000&color=6474B9&vCenter=true&width=85&height=20&lines=Socials" alt="Typing SVG" /></a>
 
 <div>
- <a href="https://www.linkedin.com/in/wellber/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.instagram.com/wellbersantos/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> 
+ <a href="https://www.linkedin.com/in/wellbersantos/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.instagram.com/wellbersantos/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> 
   <a href="https://github.com/Wellber"><img align="right" alt="Custom badge" src="https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D17103%26project%3D%26in%3D604800000"></a>
   <a href="https://github.com/Wellber"><img align="right" src="https://visitcount.itsvg.in/api?id=KAYOKG&label=Profile%20Views&color=12&icon=5&pretty=true" /></a>
 </div>
